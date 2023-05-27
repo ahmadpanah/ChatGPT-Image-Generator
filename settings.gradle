@@ -10,7 +10,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        hey
+      //  hey))))))))
     }
 }
 rootProject.name = "ChatGPT"
